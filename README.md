@@ -1,0 +1,2 @@
+# mywhizlabsAZURE
+azure templates only
